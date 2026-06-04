@@ -1,0 +1,23 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Remote Workstation</title>
+  <desc id="desc">A minimal macOS app icon showing a closed MacBook kept awake on AC power with a remote signal above it.</desc>
+  <rect width="1024" height="1024" rx="216" fill="#F4F6F1"/>
+
+  <path d="M340 278C384.5 233.5 444.8 208.5 512 208.5C579.2 208.5 639.5 233.5 684 278" stroke="#181B1E" stroke-width="34" stroke-linecap="round"/>
+  <path d="M407 345C434 318 470.8 302.8 512 302.8C553.2 302.8 590 318 617 345" stroke="#181B1E" stroke-width="34" stroke-linecap="round"/>
+  <circle cx="512" cy="431" r="52" fill="#E3342F"/>
+
+  <path d="M512 491V602" stroke="#24B35B" stroke-width="44" stroke-linecap="round"/>
+  <path d="M458 548H566" stroke="#24B35B" stroke-width="44" stroke-linecap="round"/>
+
+  <path d="M278 596H746C782.5 596 812 625.5 812 662V696H212V662C212 625.5 241.5 596 278 596Z" fill="#202326"/>
+  <rect x="174" y="680" width="676" height="104" rx="32" fill="#181B1E"/>
+  <rect x="432" y="718" width="160" height="14" rx="7" fill="#F4F6F1" fill-opacity="0.82"/>
+
+  <path d="M278 596C214 596 162 544 162 480" stroke="#24B35B" stroke-width="34" stroke-linecap="round"/>
+  <path d="M122 480H198" stroke="#24B35B" stroke-width="34" stroke-linecap="round"/>
+  <path d="M148 432V480" stroke="#24B35B" stroke-width="24" stroke-linecap="round"/>
+  <path d="M190 432V480" stroke="#24B35B" stroke-width="24" stroke-linecap="round"/>
+
+  <path d="M240 824H784" stroke="#181B1E" stroke-width="18" stroke-linecap="round" stroke-opacity="0.18"/>
+</svg>

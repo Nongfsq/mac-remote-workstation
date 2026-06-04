@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+Icon?
+
+# SwiftPM and Xcode build output
+.build/
+.swiftpm/
+DerivedData/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+# Local release artifacts
+dist/
+*.dmg
+*.pkg
+*.xcarchive
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.local
+*.secret
+*.key
+*.pem
+
+# This workspace may contain unrelated private/local repos during development.
+ai-agent-workflow-skills/
+
+# Never publish real machine state or RustDesk user configuration.
+RustDesk2.toml
+RustDesk2.toml.backup-*
+state.json
+MacRemoteWorkstation/
+
